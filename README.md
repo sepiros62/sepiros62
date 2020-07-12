@@ -1,6 +1,6 @@
-### Hi there 👋
+## Welcome 👋
+---
 
-I work at [Lovely Systems](https://lovelysystems.com?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan) as a Web Developer. For more information about me,
 
 <!--
 **sepiros62/sepiros62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
