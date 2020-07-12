@@ -1,13 +1,11 @@
 ## Welcome :kissing_heart:
 ---
 
-### Hello, I am currently working as an `AWS solution architect` from Korea.
-### I'm only going to update the things I'm interested in this repository.
-
-### If you have any questions, please send me a message here.
+#### Hello, I am currently working as an `AWS solution architect 💻` from Korea.
+#### I'm only going to update the things I'm interested in this repository.
+#### If you have any questions, please send me a message here. 🤔
 
 ![212A073E51C804BD0D](https://user-images.githubusercontent.com/31501015/87242257-f5a20b00-c465-11ea-9e91-f6b5dd301aee.jpg)
-
 
 <!--
 **sepiros62/sepiros62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
