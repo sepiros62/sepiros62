@@ -7,15 +7,14 @@
 - Soribada (2017.10 ~ 2018.04) | System Management
 - CDNetworks (2011.06 ~ 2014.12) | System Engineer
 
-## 📚 Interested in
-<br>
-- OS (Redhat, CentOS, Ubuntu)
+## 👩‍💻 Interested in
 - Code (BashShell, Python)
-- Cloud (AWS Cloud, CloudStack, OpenStack ...)
+- OS (Redhat, CentOS, Ubuntu)
 - Container (Docker, Kubernets, EKS ...)
-- Application (Web/Was, DB, LVS, FTP, Firewall ...)
-- IaC (Terraform, Terraform Cloud, Ansible, Ansible Tower, CloudFormation)
-👩‍💻 
+- Cloud (AWS Cloud, CloudStack, OpenStack ...)
+- Application (Web/Was, DB, LVS, FTP, Proxy, Firewall ...)
+- IaC (Terraform, Terraform Cloud, Ansible, Ansible Tower, CloudFormation, Vagrant, Packer)
+- DevOps (Gitlab, Github, Slack, Mattermost, Confluence Jira/Wiki, Notion, CI/CD) 
 📚
 
 <div align=center>
