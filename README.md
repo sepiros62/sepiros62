@@ -1,5 +1,6 @@
 ## Welcome :kissing_heart:
 ---
+![sepiros62's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
 
 ## 👩🏻‍💻 Experience
 - **MegazoneCloud (2020.04 ~ current) | AWS Solution Architect**
