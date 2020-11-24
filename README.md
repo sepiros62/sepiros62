@@ -3,10 +3,10 @@
 ![sepiros62's github stats](https://github-readme-stats.vercel.app/api?username=sepiros62&show_icons=true)
 
 ## 👩🏻‍💻 Experience
-- **MegazoneCloud (current) | AWS Solution Architect**
+- **MegazoneCloud | AWS Solution Architect**
 - Cafe24 | Reliability Site Engineering
-- Soribada| System Management
-- CDNetworks| System Engineer
+- Soribada | System Management
+- CDNetworks | System Engineer
 
 ## 👩‍💻 Interested in
 - Code (BashShell, Python)
