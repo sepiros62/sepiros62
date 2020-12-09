@@ -1,6 +1,6 @@
 ## Welcome :kissing_heart:
 ---
-![sepiros62's github stats](https://github-readme-stats.vercel.app/api?username=sepiros62&show_icons=true)
+![sepiros62's github stats](https://github-readme-stats.vercel.app/api?username=sepiros62&show_icons=true&theme=dark)
 
 ## 👩🏻‍💻 Experience
 - **MegazoneCloud | AWS Solution Architect**
