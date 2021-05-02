@@ -9,13 +9,16 @@
 - CDNetworks | System Engineer
 
 ## 👩‍💻 Interested in
-- Code (Shell Script, Python)
-- OS (Redhat, CentOS, Ubuntu, Amazon Linux)
-- Container (Docker, Kubernets, ...)
-- Cloud (AWS Cloud, CloudStack, OpenStack, ...)
-- Application (Web/Was, DB, LB, LVS, FTP, Proxy, Monitoring, Security, ...)
-- DevOps (Gitlab, Github, Slack, Mattermost, AWW Code Series, Github Action, Gitlab runner, Confluence, Notion) 
-- IaC (Terraform OSS, Terraform Cloud, Ansible, Ansible Tower, CloudFormation, Vagrant, Packer)
+- Programming Language (Bash Shell, Python)
+- Operating System (Ubuntu, CentOS, RHEL, Windows)
+- Monitoring (Nagios, MRTG, Zenoess, Grafana, Prometheus)
+- Cloud Providers (AWS Cloud, CloudStack, OpenStack, VirtualBox)
+- Container & Orchestration (Docker, Docker Swarm, Kubernets)
+- Security and Networking (HTTP/HTTPS, FTP, SSL/TLS, SSH, VPN, DLP, IDS/IPS )
+- Application ( WEB/WAS, DB, DNS, LVS, CACHE, ELK, NAS, KickStart, Firewall, Proxy )
+- CI/CD Tools (Gitlab CI, GitHub Actions, Ansible Tower, AWS Code Series )
+- Infrastructure as a Code (Ansible, Ansible Tower, Terraform OSS, Terraform Cloud, CloudFormation, Vagrant, Packer)
+- Collaboration Tools (Gitlab, Github, Git, VSCode, Slack, Mattermost, Cloud9, Confluence Wiki/Jira, Notion, Sales Force, SourceTree)
 
 ---
 <div align=center>
