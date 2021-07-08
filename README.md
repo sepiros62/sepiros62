@@ -2,6 +2,8 @@
 ---
 ![sepiros62's github stats](https://github-readme-stats.vercel.app/api?username=sepiros62&show_icons=true&theme=dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sepiros62&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 👩🏻‍💻 Experience
 - **MegazoneCloud | AWS Solution Architect**
 - Cafe24 | Reliability Site Engineering
@@ -28,3 +30,4 @@
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jeong.jaehwan.5/)
 [![Gmail Badge](https://img.shields.io/badge/-Contact%20Me-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sepiros62@gmail.com)](mailto:sepiros62@gmail.com)
 </div>
+
