@@ -1,8 +1,10 @@
+![image](https://user-images.githubusercontent.com/31501015/124888531-2719cc00-e011-11eb-9cce-e457350de103.png)
+
 ## Welcome :kissing_heart:
 ---
 ![sepiros62's github stats](https://github-readme-stats.vercel.app/api?username=sepiros62&show_icons=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sepiros62&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sepiros62&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 👩🏻‍💻 Experience
 - **MegazoneCloud | AWS Solution Architect**
