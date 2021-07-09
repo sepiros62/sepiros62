@@ -57,7 +57,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009136-e5cffd80-e09e-11eb-998f-c8c662011f87.png" alt="Terraform" height="50" /> 
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009217-09934380-e09f-11eb-8c11-0461018b3f72.png" alt="packer" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009563-ba99de00-e09f-11eb-9779-f9b2699aa972.png" alt="vagrant" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009339-58d97400-e09f-11eb-8b07-0be50dd5400b.png" alt="Virtualbox" height="50" />
 </div>  
+
 
 ## 👩‍💻 My Github
 <table><tr><td valign="top" width="50%">
