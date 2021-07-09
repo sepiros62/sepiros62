@@ -46,8 +46,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125010437-78719c00-e0a1-11eb-8053-81b5e61771a1.png" alt="Github" height="50" /> 
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125010504-9dfea580-e0a1-11eb-8bc1-fd040bc7976e.png" alt="Ansible" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009983-9b4f8080-e0a0-11eb-8e2d-29d78d1395a9.png" alt="Awx" height="50" /> 
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009339-58d97400-e09f-11eb-8b07-0be50dd5400b.png" alt="Virtualbox" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="50" />  
@@ -60,7 +63,6 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009136-e5cffd80-e09e-11eb-998f-c8c662011f87.png" alt="Terraform" height="50" /> 
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009217-09934380-e09f-11eb-8c11-0461018b3f72.png" alt="packer" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009563-ba99de00-e09f-11eb-9779-f9b2699aa972.png" alt="vagrant" height="50" />
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009339-58d97400-e09f-11eb-8b07-0be50dd5400b.png" alt="Virtualbox" height="50" />
 </div>  
 
 
