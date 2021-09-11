@@ -20,7 +20,7 @@
 
 💜  **MegazoneCloud | AWS Solution Architect**   
 
-💙 Cafe24 | Reliability Site Engineering  
+💙 Cafe24 | Site Reliability Engineering  
 
 ❤️ Soribada | System Management   
 
