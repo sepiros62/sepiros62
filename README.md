@@ -57,7 +57,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/132942191-71bd5fff-a4a5-415b-80da-76c5140b006a.png" alt="Prometheus" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
