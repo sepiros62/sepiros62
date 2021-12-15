@@ -43,8 +43,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
@@ -55,7 +54,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/132942191-71bd5fff-a4a5-415b-80da-76c5140b006a.png" alt="Prometheus" height="50" />
@@ -66,6 +64,10 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009217-09934380-e09f-11eb-8c11-0461018b3f72.png" alt="packer" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009563-ba99de00-e09f-11eb-9779-f9b2699aa972.png" alt="vagrant" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/129886083-0df5d6d6-5861-4c49-a5e2-ef5b8c194b60.png" alt="helm" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/146144156-421df2b5-9b5c-4044-9b03-fec2ee6f5e5f.png" alt="ArgoCD" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/146144579-05840aa8-5cf5-45ee-b457-3d664e78c0de.png" alt="Logstash" height="50" /> 
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/146144789-aacdc5bd-d739-4eaa-a308-b998b584317c.png" alt="Filebeatgstash" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/146145044-f4e29667-eca5-4249-85fc-bcf66be378f2.png" alt="Fluentd" height="50" />
 </div>  
 
 
