@@ -68,7 +68,11 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/146144579-05840aa8-5cf5-45ee-b457-3d664e78c0de.png" alt="Logstash" height="50" /> 
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/146144789-aacdc5bd-d739-4eaa-a308-b998b584317c.png" alt="Filebeatgstash" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/146145044-f4e29667-eca5-4249-85fc-bcf66be378f2.png" alt="Fluentd" height="50" />
-</div>  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/151139074-6ca77827-4a95-4523-b56c-e31538c2d195.png" alt="Bitbucket" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/151139702-3e55ea31-2228-4e6d-99b0-455ade2158e6.png" alt="Jira" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/151140216-ea69d07e-caf8-4d19-bd8b-f425f799bcd4.png" alt="Slack" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/151140346-ef33bdd7-ed5c-4d1e-a3ca-c2be44e2dc7f.png" alt="Notion" height="50" />  
+</div> 
 
 
 ## 👩‍💻 My Github
