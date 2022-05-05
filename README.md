@@ -18,9 +18,11 @@
 ## 👩🏻‍💻 Experience
 <table><tr><td valign="top" width="70%">
 
-💜  **MegazoneCloud | AWS Solution Architect**   
+🤎 **Brandi | DevOps Engineer**    
+  
+💜 MegazoneCloud | AWS Solution Architect
 
-💙 Cafe24 | Site Reliability Engineering  
+💙 Cafe24 | Site Reliability Engineer
 
 ❤️ Soribada | System Management   
 
