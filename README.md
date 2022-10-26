@@ -18,7 +18,7 @@
 ## 👩🏻‍💻 Experience
 <table><tr><td valign="top" width="70%">
 
-🤎 **Brandi | DevOps Engineer**    
+🤎 **Brandi | DevOps Team Lead**    
   
 💜 MegazoneCloud | AWS Solution Architect
 
