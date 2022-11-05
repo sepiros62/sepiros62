@@ -74,6 +74,7 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/151139702-3e55ea31-2228-4e6d-99b0-455ade2158e6.png" alt="Jira" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/151140216-ea69d07e-caf8-4d19-bd8b-f425f799bcd4.png" alt="Slack" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/151140346-ef33bdd7-ed5c-4d1e-a3ca-c2be44e2dc7f.png" alt="Notion" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/200110136-88883d83-cbb2-49f8-9622-a8eb191d2ca1.png" alt="DataDog" height="50" />  
 </div> 
 
 
