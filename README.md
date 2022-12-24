@@ -75,8 +75,8 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/151140216-ea69d07e-caf8-4d19-bd8b-f425f799bcd4.png" alt="Slack" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/151140346-ef33bdd7-ed5c-4d1e-a3ca-c2be44e2dc7f.png" alt="Notion" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/200110136-88883d83-cbb2-49f8-9622-a8eb191d2ca1.png" alt="DataDog" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/209423397-20a22577-e9a5-4f5e-8379-01f28b1fe1d3.png" alt="DataDog" height="50" />  
 </div> 
-
 
 ## 👩‍💻 My Github
 <table><tr><td valign="top" width="50%">
