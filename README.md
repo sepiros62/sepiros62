@@ -53,8 +53,7 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125010504-9dfea580-e0a1-11eb-8bc1-fd040bc7976e.png" alt="Ansible" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009983-9b4f8080-e0a0-11eb-8e2d-29d78d1395a9.png" alt="Awx" height="50" /> 
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/125009339-58d97400-e09f-11eb-8b07-0be50dd5400b.png" alt="Virtualbox" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
@@ -75,8 +74,8 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/151140216-ea69d07e-caf8-4d19-bd8b-f425f799bcd4.png" alt="Slack" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/151140346-ef33bdd7-ed5c-4d1e-a3ca-c2be44e2dc7f.png" alt="Notion" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/200110136-88883d83-cbb2-49f8-9622-a8eb191d2ca1.png" alt="DataDog" height="50" />
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/209423397-20a22577-e9a5-4f5e-8379-01f28b1fe1d3.png" alt="DataDog" height="50" />
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/209423420-363835ae-4e1d-4999-ab41-31c257d8404d.png" alt="DataDog" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/209423397-20a22577-e9a5-4f5e-8379-01f28b1fe1d3.png" alt="Teleport" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/209423420-363835ae-4e1d-4999-ab41-31c257d8404d.png" alt="Loki" height="50" />
 </div> 
 
 ## 👩‍💻 My Github
