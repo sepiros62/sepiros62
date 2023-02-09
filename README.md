@@ -76,6 +76,8 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/200110136-88883d83-cbb2-49f8-9622-a8eb191d2ca1.png" alt="DataDog" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/209423397-20a22577-e9a5-4f5e-8379-01f28b1fe1d3.png" alt="Teleport" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/209423420-363835ae-4e1d-4999-ab41-31c257d8404d.png" alt="Loki" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/217816249-0302a5b0-c013-4486-9c66-b539ea0b673a.png" alt="Istio" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/217816502-8c60a260-1044-411e-a4ca-d30b34fd97f7.png" alt="Envoy" height="50" />
 </div> 
 
 ## 👩‍💻 My Github
