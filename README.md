@@ -18,7 +18,7 @@
 ## 👩🏻‍💻 Experience
 <table><tr><td valign="top" width="70%">
 
-🤎 **Brandi | DevOps Team Lead & HashiCorp Ambassador 2023**
+🤎 **Brandi | DevOps Team Lead**
   
 💜 MegazoneCloud | AWS Solution Architect
 
