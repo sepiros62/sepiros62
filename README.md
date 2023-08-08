@@ -19,9 +19,9 @@
 <table><tr><td valign="top" width="70%">
 
 🤍 **LG Uplus | DevOps Engineer**
-
-🤎 Brandi | DevOps Team Lead
   
+🤎 Brandi | DevOps Team Lead
+
 💜 MegazoneCloud | AWS Solution Architect
 
 💙 Cafe24 | Site Reliability Engineer
@@ -29,12 +29,10 @@
 ❤️ Soribada | System Management   
 
 💛 CDNetworks | System Engineer   
-
 </td><td valign="top" width="30%">
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/sepiros62/sepiros62/assets/31501015/cfb9fd04-15fb-4322-89ae-ea24d241fdc1" align="center" style="width: 100%" />
 </div> 
-  
 </td></tr></table>  
  
 <br/>
