@@ -18,7 +18,9 @@
 ## 👩🏻‍💻 Experience
 <table><tr><td valign="top" width="70%">
 
-🤎 **Brandi | DevOps Team Lead**
+🤍 **LG Uplus | DevOps Engineer**
+
+🤎 Brandi | DevOps Team Lead
   
 💜 MegazoneCloud | AWS Solution Architect
 
