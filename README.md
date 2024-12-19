@@ -18,7 +18,7 @@
 ## 👩🏻‍💻 Experience
 <table><tr><td valign="top" width="70%">
 
-🤍 **LG Uplus | DevOps Engineer**
+🤍 **LG Uplus | DevSecOps Engineer**
   
 🤎 Brandi | DevOps Team Lead
 
