@@ -31,10 +31,9 @@
 💛 CDNetworks | System Engineer   
 </td><td valign="top" width="30%">
 <div align="center">
-<img src="https://github.com/sepiros62/sepiros62/assets/31501015/cfb9fd04-15fb-4322-89ae-ea24d241fdc1" align="center" style="width: 100%" />
+<img src="https://github.com/user-attachments/assets/9de120e7-a97c-4378-bdea-71f193482a8d" align="center" style="width: 100%" />
 </div> 
-</td></tr></table>  
- 
+</td></tr></table>   
 <br/>
 
 ## 👩‍💻 Technology Stack 
