@@ -7,11 +7,10 @@
   
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun0120%2Fhit-counter)](https://hits.seeyoufarm.com)
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Github&logoColor=white)](https://sepiros.tistory.com/)
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Medium&logoColor=white)](https://sepiros62.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JaeHwan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehwan-jeong-922a4710a/)
+[![Gmail](https://img.shields.io/badge/-Contact%20Me-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sepiros62@gmail.com)](mailto:sepiros62@gmail.com)
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jeong.jaehwan.5/)
-[![Gmail Badge](https://img.shields.io/badge/-Contact%20Me-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sepiros62@gmail.com)](mailto:sepiros62@gmail.com)
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Github&logoColor=white)](https://sepiros.tistory.com/)
 </div>
 
 
@@ -78,17 +77,3 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/217816249-0302a5b0-c013-4486-9c66-b539ea0b673a.png" alt="Istio" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/31501015/217816502-8c60a260-1044-411e-a4ca-d30b34fd97f7.png" alt="Envoy" height="50" />
 </div> 
-
-## 👩‍💻 My Github
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=sepiros62&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepiros62&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
-</td></tr></table>
-
-<div align=center>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sepiros62&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
----
