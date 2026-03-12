@@ -1,10 +1,9 @@
 ## Welcome :kissing_heart:
 
-<div align=center>
-  
-![image](https://user-images.githubusercontent.com/31501015/124889044-a4454100-e011-11eb-98c1-dad1783a03e9.png)
-</div>
-  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9de120e7-a97c-4378-bdea-71f193482a8d" width="500">
+</p>
+
 <div align=center>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JaeHwan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehwan-jeong-922a4710a/)
@@ -12,28 +11,6 @@
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jeong.jaehwan.5/)
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Github&logoColor=white)](https://sepiros.tistory.com/)
 </div>
-
-
-## 👩🏻‍💻 Experience
-<table><tr><td valign="top" width="70%">
-
-🤍 **LG Uplus | DevSecOps Engineer**
-  
-🤎 Brandi | DevOps Team Lead
-
-💜 MegazoneCloud | AWS Solution Architect
-
-💙 Cafe24 | Site Reliability Engineer
-
-❤️ Soribada | System Management   
-
-💛 CDNetworks | System Engineer   
-</td><td valign="top" width="30%">
-<div align="center">
-<img src="https://github.com/user-attachments/assets/9de120e7-a97c-4378-bdea-71f193482a8d" align="center" style="width: 100%" />
-</div> 
-</td></tr></table>   
-<br/>
 
 ## 👩‍💻 Technology Stack 
 <div align="center">  
