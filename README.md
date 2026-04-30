@@ -1,7 +1,7 @@
 ## Welcome :kissing_heart:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9de120e7-a97c-4378-bdea-71f193482a8d" width="500">
+  <img src="https://github.com/user-attachments/assets/9de120e7-a97c-4378-bdea-71f193482a8d" width="100">
 </p>
 
 <div align=center>
